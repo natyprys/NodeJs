@@ -6,6 +6,7 @@
 import { Conta } from "./Conta.js";
 
 export class ContaCorrente extends Conta{
+    //criando um construtor
     constructor(saldoInicial){
         super();
         super._saldo = saldoInicial;

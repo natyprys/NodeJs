@@ -1,7 +1,7 @@
 export class Conta{
-    #agencia;
+    #agencia; //privado
     numero;
-    _saldo;
+    _saldo; //protect
     cliente;
 
     get agencia(){
