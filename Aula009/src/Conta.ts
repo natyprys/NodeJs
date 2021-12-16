@@ -3,6 +3,8 @@ export class Conta{
     private _numero:string;
     protected _saldo:number; //protect
     private _cliente:string;
+    
+    //sempre usar em minusculo para ser primitivo
 
     get agencia(){
         return this.agencia;

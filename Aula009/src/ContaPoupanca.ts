@@ -5,5 +5,4 @@ export class ContaPoupanca extends Conta{
         super();
         this._saldo = 0;
     }
-   
 }

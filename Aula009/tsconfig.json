@@ -5,6 +5,7 @@
         "noEmitOnError": true,
         "noImplicitAny": false
     },
+    
     "target": ["src/**/*"],
     // qualquer pasta, qualquer arquivo
 }
