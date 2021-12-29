@@ -11,7 +11,6 @@ console.log(cc1);
 console.log(cc1.agencia);
 
 const lista = new Array<ContaPoupanca>();
-
 const cp1 =  new ContaPoupanca();
 cp1.numero ="298";
 cp1.depositar(159);
